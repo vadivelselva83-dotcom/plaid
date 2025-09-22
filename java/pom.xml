@@ -10,10 +10,10 @@
   </prerequisites>
 
   <groupId>com.plaid</groupId>
-  <artifactId>quickstart</artifactId>
+  <artifactId>kani</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
-  <name>Quickstart</name>
+  <name>Kani</name>
 
   <properties>
     <!-- Compile for JDK 21 -->
