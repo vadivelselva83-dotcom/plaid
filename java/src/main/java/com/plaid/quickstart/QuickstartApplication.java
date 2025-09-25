@@ -81,6 +81,15 @@ public class QuickstartApplication extends Application<QuickstartConfiguration> 
       case "sandbox":
         plaidEnv = ApiClient.Sandbox;
         break;
+      case "dev":
+          plaidEnv = ApiClient.Sandbox;
+          break;
+      case "ist":
+          plaidEnv = ApiClient.Sandbox;
+          break;
+      case "uat":
+          plaidEnv = ApiClient.Sandbox;
+          break;    
       case "production":
         plaidEnv = ApiClient.Production;
         break;
